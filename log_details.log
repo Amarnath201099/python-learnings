@@ -1,0 +1,14 @@
+INFO: Server started successfully
+INFO: Database connection established
+ERROR: 404 not found
+WARNING: Value is undefined
+INFO: User logged in
+ERROR: Database connection failed
+WARNING: Disk space is low
+INFO: Request completed
+ERROR: Invalid user credentials
+WARNING: Session expired
+INFO: Backup completed
+ERROR: Timeout while connecting to server
+WARNING: Deprecated API used
+INFO: Application stopped
