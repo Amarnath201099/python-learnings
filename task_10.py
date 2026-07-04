@@ -1,3 +1,6 @@
+# Task 10: CSV Data Analysis Pipeline
+# Objective: Load, clean, analyze, and process CSV data asynchronously.
+
 import pandas as pd
 import asyncio
 
